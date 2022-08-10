@@ -1,7 +1,32 @@
 * {
+    --white: #fff;
+
+
+    --background: #263849; 
+    --color1: #41506b;
+    --color2: #35bcbf; 
+    --color3: #90f6d7;
+
+
+    /*
+    red:
+    --background: #271b29; 
+    --color1: #a75265;
+    --color2: #ec7263;  
+    --color3: #febe7e; 
+
+    blue:
+    --background: #263849; 
+    --color1: #41506b;
+    --color2: #35bcbf; 
+    --color3: #90f6d7;
+
+
+    pink:
     --background: #141010;
     --color1: #680747;
     --color2: #c3195d;
     --color3: #f70776;
-    --white: #fff
+
+    */
 }
