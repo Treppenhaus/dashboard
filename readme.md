@@ -2,4 +2,4 @@
 will probably make a backend for it another time
 you can configure your colors in colors.css
 ---
-![a][https://i.imgur.com/bRYxT5a.png]
+![a](https://i.imgur.com/bRYxT5a.png)
